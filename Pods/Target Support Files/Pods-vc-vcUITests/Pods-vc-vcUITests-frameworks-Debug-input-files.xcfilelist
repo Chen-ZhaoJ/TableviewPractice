@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-vc-vcUITests/Pods-vc-vcUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FABView/FABView.framework
+${BUILT_PRODUCTS_DIR}/FABtn/FABtn.framework

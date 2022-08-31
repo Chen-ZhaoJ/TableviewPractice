@@ -1,0 +1,20 @@
+PODS:
+  - FABtn (0.1.7)
+  - FABView (0.1.4)
+
+DEPENDENCIES:
+  - FABtn
+  - FABView
+
+SPEC REPOS:
+  trunk:
+    - FABtn
+    - FABView
+
+SPEC CHECKSUMS:
+  FABtn: 4b1cfd97c07859bd06099160bdf96034c8e2f28e
+  FABView: 71a43d21908f2cd5fd0061c5cc10a8aca1bd1b14
+
+PODFILE CHECKSUM: c5cfff7dc7291ff40ad1cd88947120cf59467406
+
+COCOAPODS: 1.11.3
