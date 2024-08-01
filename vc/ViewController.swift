@@ -24,10 +24,10 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         addTableVC()
         layout()
         
-        floatVC.createFAB(image: .img_close, btnColor: .black)
-        floatVC.createFAB(image: UIImage(), title: "collapse1", btnColor: .yellow, lblColor: .yellow)
-        floatVC.createFAB(image: UIImage(), title: "no collapse", btnColor: .yellow, lblColor: .yellow)
-        addFloatingActionButtonView()
+        //floatVC.createFAB(image: .img_close, btnColor: .black)
+        //floatVC.createFAB(image: UIImage(), title: "collapse1", btnColor: .yellow, lblColor: .yellow)
+        //floatVC.createFAB(image: UIImage(), title: "no collapse", btnColor: .yellow, lblColor: .yellow)
+        //addFloatingActionButtonView()
     }
     
     func addFloatingActionButtonView(){
